@@ -1,2 +1,2 @@
 # college-project
- author vika takale
+ author vikas takale
